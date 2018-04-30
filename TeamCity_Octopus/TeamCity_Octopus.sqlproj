@@ -43,7 +43,7 @@ b626f028-dc9b-54e7-9b36-6810092c3f64|Programmable Objects\dbo\Stored Procedures\
 ecf74ec8-fdd4-520b-bf23-d875d9158861|Programmable Objects\HumanResources\Stored Procedures\uspUpdateEmployeeLogin.sql;
 2b483dab-b69f-56d7-88c8-640ee915791c|Programmable Objects\HumanResources\Stored Procedures\uspUpdateEmployeePersonalInfo.sql;
 </DeployChangesExecutionOrder>
-    <GenerateOctopusNuPkg>True</GenerateOctopusNuPkg>
+    <GenerateOctopusNuPkg>False</GenerateOctopusNuPkg>
   </PropertyGroup>
   <!-- READYROLL OFFLINE SCHEMA MODEL OPTIONS -->
   <PropertyGroup>
